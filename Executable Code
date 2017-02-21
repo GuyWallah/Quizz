@@ -1,0 +1,24 @@
+import java.util.*;
+
+public class Wallah_Wallah {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner in=new Scanner(System.in); 
+		         
+		String q1=("How many contenents are there?");                       //  7
+		String q2=("What is the Average number of arms a human has?");      //  2
+		String q3=("How many teeth does a fully grown adult have?");        //  32
+		String q4=("What Planet are you currently on?");                    // Earth
+		String q5=("What galaxie are we currently in?");                    //Milky way
+		String q6=("How much does a baby elephent weigh?");
+		String q7=("How many students are enrolled at St.Pats?");
+		String q8=("When was the war of 1812?");                            //1812
+		String q9=("What color was Napolian's white horse?");               //White
+		String q10;
+		
+		System.out.println(q1);
+
+	}
+
+}
